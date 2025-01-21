@@ -10,7 +10,7 @@ A simple command-line based diary application where users can add, view, and del
 
 ## How to Use
 
-1. Clone the repository: `git clone <URL_Repositori_GitHub>`
+1. Clone the repository: `git clone https://github.com/aeraski/Proyek-Catatan-Harian.git`
 2. Navigate to the project directory: `cd Proyek-Catatan-Harian`
 3. Run the program: `python "Proyek Catatan Harian.py"`
 
